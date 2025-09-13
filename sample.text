@@ -1,0 +1,16 @@
+# GrayWhale CLI Example Environment Variables
+
+# Basic auth credentials (provided for hackathon access)
+BASIC_USER=your_basic_auth_username
+BASIC_PASS=your_basic_auth_password
+
+# API base URL
+BASE_URL=https://app.productgenius.io
+
+# Access token (filled automatically after project creation)
+ACCESS_TOKEN=
+
+# Project name (filled automatically after project creation)
+PROJECT_NAME=
+
+
